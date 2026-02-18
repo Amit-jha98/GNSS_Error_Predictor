@@ -365,5 +365,8 @@ For questions or issues:
 - [ ] Support for additional satellite constellations
 
 ---
+## License
+
+This project is licensed under the Apache License 2.0.
 
 *This system is designed to advance GNSS error prediction capabilities through the integration of physics-informed machine learning and uncertainty quantification techniques.*
